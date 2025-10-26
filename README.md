@@ -64,11 +64,16 @@
 
 ## 使用する技術スタック
 
-- 使用するフレームワーク
-	- Ruby on Rails
-- データベース
-	- PostgreSQL
-- デプロイ先
-	- RenderまたはHeroku
-- 使用予定のライブラリ
-	- Devise / ransack / Google Books APIs / Faraday
+- Ruby 3.3.0
+- Ruby on Rails 7.1.3
+- PostgreSQL 15
+- Node.js 20.x
+- Yarn 1.22.x
+
+## 使用ライブラリ・Gem
+
+- devise 4.9.4
+- faraday 2.10.0
+- tailwindcss-rails 2.4.0
+- turbo-rails 2.0.5
+- stimulus-rails 1.3.0
